@@ -4,8 +4,8 @@
 
 <img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/m1awu/Game-JailBreak/master/jb%20screen.PNG" height = "400">
 
-<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/m1awu/Game-JailBreak/master/ins1.png" width = "300" height = "300">
+<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/m1awu/Game-JailBreak/master/ins1.png" width = "500" height = "500">
 
-<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/m1awu/Game-JailBreak/master/sImage.png" width = "300" height = "300">
+<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/m1awu/Game-JailBreak/master/sImage.png" width = "500" height = "500">
 
 <img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/m1awu/Game-JailBreak/master/Capture(Level%201).PNG" height = "400">
