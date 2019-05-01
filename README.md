@@ -6,4 +6,4 @@
 
 
 
-<img src="/m1awu/Game-JailBreak/blob/master/titlescreen.PNG?raw=true" alt="titlescreen.PNG">
+<img src="/m1awu/Game-JailBreak/blob/master/titlescreen.PNG?raw=true" alt="titlescreen.PNG" width="300" height="300">
